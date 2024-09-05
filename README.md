@@ -7,3 +7,5 @@ It has been specifically designed for the Goliath Air V2 toolhead menufactured b
 It uses the standard Voron v0.2 X carriage with no modification needed from default settings. 
 
 The toolhead is designed to be used with auxiliary fans, meaning that there are no part cooling fans onboard, but instead rely on a stationary-mounted auxiliary fan system such as the [V0 Auxiliary Fan](https://github.com/JackJack3231/V0-Auxiliary-Fan) mod by JackJack3231. 
+
+![](images/vector_1.png)
